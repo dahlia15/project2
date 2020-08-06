@@ -10,12 +10,12 @@ Github Repository: https://github.com/SM91wilson/project2
 
 ## Process
 Technologies:
--Bootstrap
--Heroku
--MySQL
+* Bootstrap
+* Heroku
+* MySQL
 
 ## Challenges: 
-Heroku Deployment, Game Logic (coming up with a way to make a multiplayer concept for single player use, Table Organization
+Heroku Deployment, Game Logic (coming up with a way to make a multiplayer concept for single player use, Table Organization, etc.)
 
 ## Successes: 
 We worked very well together and were able to coordinate time to work both as a team and individually outside of class, merging of frontend and backend, use of github 
@@ -30,14 +30,14 @@ We worked very well together and were able to coordinate time to work both as a 
 -We had initially aimed to include a voice-to-text API into the project as it was very text heavy. This is not included in our initial iteration of the app. It would be included with further development.
 
 ## Authors
-Dahalia Amade
-Mara Goodman
-Nick Bombicino
-Simon Wilson
+* [Dahlia Amade](https://github.com/dahlia15)
+* [Nick Bombicino](https://github.com/bombichino)
+* [Mara Goodman](https://github.com/maragoodman)
+* [Simon Wilson](https://github.com/SM91wilson)
 
 ## Acknowledgments
-Simon and Mara - Backend
-Dahlia and Nick - Frontend
-Nick - Storyline and text
-Mara - Character Graphics
-Gus - Moral Support and Home Security
+* Simon and Mara - Back End Development
+* Dahlia and Nick - Front End Development
+* Nick - Storyline and text
+* Mara - Character Graphics
+* Gus - Moral Support and Home Security
